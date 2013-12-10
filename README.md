@@ -8,13 +8,13 @@ The purpose of this script is to read a file of questions and store it to a JSON
 The script is built using Python 2.7.
 
 ## Usage
-Put two .txt files in the same folder, one named <title>.txt and one 
-named <title>_solution.txt. Make sure they're in the format given in the next section.
+Put two .txt files in the same folder, one named filename.txt and one 
+named filename_solution.txt. Make sure they're in the format given in the next section.
 
 ```
-python quiz_interpreter.py <title>
+python quiz_interpreter.py filename
 ```
-Note: <title> (relative path if all files are in the same folder) can be replace with path to title.
+Note: filename (relative path if all files are in the same folder) can be replace with path to the file.
 
 A data.js file will then be created, containing the quiz.
 
