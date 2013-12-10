@@ -1,0 +1,55 @@
+Tentativ fasit for eksamen i TIØ4258 høst 2009 
+1) a, Mulighetsanalyser innebærer en innledende vurdering av tekniske, markedsmessige, 
+økonomiske og organisatoriske forhold 
+2) d, for at slike prosesser skal være nyttige bør man starte ut med en bred ide 
+3) c, en bedrift må samarbeide med flinke mennesker og bedrifter utenfor og innenfor... 
+4) b, med dette menes bedriften klarer å kombinere ressurser på en slik måte... 
+5) c, den viktigste utfordringen for en ny teknologibedrift er å etablere en robust ressursbase... 
+6) c, beskrivelse, analyse, målsetning, strategi 
+7) c, eksisterende brukere/kunder er for mange bedrifter den viktigste kilden til innovasjon 
+8) d, man oppnår alltid god lønnsomhet fra forskning og utvikling dersom bedriften... 
+9) b, mulighetsanlyse, forretningsplan, innhenting av kapital, første salg 
+10) a, kjøpe brukt i stedet for å kjøpe nytt 
+11) d, en privatperson som tilbyr venturekapital direkte til unoterte bedrifter... 
+12) b, er aktive eiere som tilfører bedriften ”knappe ressurser” 
+13) a, gründer, familie og venner, Business Angels, såkornfond, venturekapitalfond 
+14) d, venturekapitalfond er ofte spesialisert i forhold til fase eller bransje 
+15) d, bankene kan være viktige rådgivere men vil normalt sett ikke engasjere seg finansielt... 
+16) b, Organisasjoner er utførelse av en tilstrekkelig grad av produktiv samarbeid... 
+17) d, Det kan forekomme målforskyvning hvor underenheter setter mål... 
+18) a, Ledere bruker uformelle og tilfeldige møter for eksempel i heisen... 
+19) c, En leder med høy sosial og politisk ledelseskompetanse vil alltid være mer effektiv... 
+20) a, Når ledere har et mønster av overbærenhet, det vil si at de ignorer ansattes overtredelse 
+av regler i organisasjonen, ... 
+21) b, Indirekte kontroll prinsipper for arbeidsdeling passer sammen med fleksibilitet... 
+22) a, En organisk og fleksibel organisasjonsstruktur er mer effektiv enn en mekanisk... 
+Etter vurdering av spørsmålets ordlyd har faglærer kommet til at også b vil bli godkjent som 
+riktig svar. 
+23) a, Organisasjoner basert på semi-autonome arbeidsgrupper. 
+24) b, Individer er ofte mer ansvarlige i team enn når de har eneansvar for en beslutning... 
+25) a, Desto mer tillit det er i organisasjonen jo bedre blir innovasjonsevnen... 
+26) c, nettverk gjør at hver enkelt bedrift blir viktigere 
+27) d, gruppekreativitet ødelegges lett ved å sette gruppa under tidspress 
+28) a, det å lede et innovasjonsnettverk bør alltid gjøres som et prosjekt 
+29) c, teknologi drives frem av interaksjon mellom ulike organisasjoner og individer 
+30) a, patentrettigheter er viktig for å sikre teknologiens økonomiske potensiale for oppfinneren 
+31) c, socialization (Sosialisering) 
+32) b, enlisted knowledge 
+33) b, et uformelt nettverk mellom mennesker som jobber med likeartede arbeidsoppgaver 
+34) d, objekter som kommuniserer på tvers av ulike praksisfellesskap eller kunnskapsområder 
+35) a, kunnskap som ikke lar seg formulere eksplisitt 
+36) b, Inntekten er gittt ved R = PQ = 250Q-2Q2. Marginalinntekten blir da MR = 250-4Q. Optimal tilpasning har vi når MR = MC, altså: 250-4Q = 50 som gir Q = 200/4 = 50.
+37) b, Etterspørselselastisiteten er definert som -(dQ/dP)(P/Q). Siden P og Q er inverse funksjoner er de deriverte inverse av hverandre og dQ/dO = -1/2. Fra etterspørselen ser vi også at når prisen er 50, er mengden 25. Vi setter inn og får: -(-1/2)(50/25) = 1.
+38) c, Førsteordensbetingelsen er MR = MC. Marginalinntekten kan skrives (dP/dQ)Q + P som er lik P((dP/dQ)Q/P + 1). Vi ser at det ene leddet er lik minus inversverdien til etterspørselselastisiteten som er gitt ved ℇ = -(dQ/dP)(P/Q). Vi har altså P(1-1/ℇ) = MC. Denne likningen kan vi så omforme til ønsket form: P – M = P(1/ℇ) og (P-MC)/P=1/ℇ. 
+39) c, Salgsleddet har marginalkostnaden w og marginalinntekten 1000-2Q. Førsteordensbetingelsen c, er altså w = 1000-2Q. Produsentens inntekt er R = wQ = (1000-2Q)Q og marginalinntekten blir da MR = 1 c,000-4Q. Med marginalkostnader på 200 blir førsteordensbetingelsen for produsenten 200 = 1000-4Q o c,g Q = 200. Prisen, w, som maksimerer produsentens overskudd blir da w = 1000-2∙200 = 600.
+40) b, De eksterne kostnadene er en del av de samfunnsøkonomiske kostnadene slik at de samfunnsøkon b,omiske marginalkostnadene er 5000+1000 = 6000. Maksimalt samfunnsøkonomisk overskudd har vi når pris er l b,ik marginalkostnad, dvs. P = 600 b,0.
+41) c, Her kan vi bruke Modigliani og Millers andre proposisjon for å finne forventet avkastning på eg c,enkapital med ny giring. Avkastningen på aktiva er 10 %. (Avkastning på egenkapital og avkastning på aktiva  c,er den sammen når det ikke er noen  c,gjeld.) Gjeldsgraden er 1. (Dersom verdien av aktiva er V, er gjelda 0,5V og egenkapitalen også 0,5V slik at (D/E)=(0,5V/0,5V)=1.) rE = rA+ (D/E)(rA-rD) = 10% + 1(10%-5%) = 15%.
+42) a, Den viktigste forskjellen mellom de to likviditetsgradene er at i likviditetsgrad 2 er ikke verdie a,n av varelager en del av omløpsmidlene. En JIT-bedrift har normalt mye lavere varelagre enn en tilsvarende, ord a,inær bedrift. Derfor vil de to likivid a,etsgradene være nærmere hverandre.
+43) b, I periode 1 går selskapet med så stort underskudd at rentene ikke bidrar til å redusere skatten. (Ska b,tten blir ikke mindre enn null!) Men dette underskuddet kan framføres til periode 2, slik at rentene fra periode 1 b, kan brukes til å redusere skatten i den  b,perioden. Nåverdien av skattefordelen blir da (100+200)0,25/(1,052) = 68,03.
+44) a, Prosjekter med nettonåverdi større enn null gir eierne merverdi i forhold til det de kan oppnå på egen h a,ånd. Og ved å gjennomføre alle slike prosjekter maksimeres deres verdier. (Alternativ b og c kan innebære at mange lø a,nnsomme prosjekter ikke vil bli gjennomført. a, Alternativ d vil, så lenge alternativkostnaden til kapital er positiv, at ulønnsomme prosjekter kan bli gjennomført.)
+45) a, Tar ikke eksplisitt med de alternativene som gir null. Nåverdien blir: 0,7∙5/1,1 + 0,72 ∙10/1,12  + 0,73 ∙15/1,13  = 11,097. 
+46) d, Vi bruker begrepet «markedsrisiko» for risiko som ikke kan elimineres ved diversifisering.
+47) c, Sammenhengen mellom beta for egenkapital, beta for aktiva og beta for gjeld tilsvarer Modigliani og Millers andre preposisjon om egenkapitalavkastningen. Vi får altså:  ßE = ßA+ (D/E)(ßA-ßD) = 2+1(2-0,5) = 3,5.
+48) a, Kapitalverdimodellen (CAPM) gir forventet avkastning på egenkapital og gjeld. Den har formen: r = rf + ß(rm-rf). Her er r forventet avkastning, rm er forventet markedsavkastning, rf er risikofri rente og ß er beta. Vi får: rE = 5,5% + 0,73(13,5%-5,5%) = 11,34 %.
+49) c, WACC, avkastningskravet til totalkapitalen etter skatt, fanger opp effekten av skattefordel av gjeld via et lavere avkastningskrav. Derfor skal kontantstrømmen beregnes uten denne effekten. (Ellers ville fordelen av gjeld bli tatt med dobbelt opp.) Kontantstrømmen skal dermed beregnes etter skatt for et hypotetisk prosjekt som kun er finansiert med egenkapital. I vårt tilfelle er kontantstrøm før skatt 1000 og skatten 25 %. Etter skatt har vi dermed 750.
+50) a, Pensum forklarer hvordan det oppstår en fordel av å betale ut kontantstrøm som renter i stedet for som utbytte (eller via verdistigning på aksjer). Denne fordelen henger sammen med at renter som betales ut, bidrar til å redusere skattbart overskudd. De betales altså ut skattefritt. I landet Utopia oppstår ikke denne effekten og vi må forvente at bedriftene vil være mindre tilbøyelige til å ta sjansen på konkurs ved å ta opp gjeld.
